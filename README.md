@@ -83,9 +83,13 @@ in the input data.
 
 ## Future Improvements
 
--   Hyperparameter tuning
+(Already done)
+-   Hyperparameter tuning 
 -   Model evaluation metrics (RMSE, MAE)
 -   Visualization dashboards
+
+(Public for contribute)
+
 -   REST API for predictions
 -   Model deployment
 
